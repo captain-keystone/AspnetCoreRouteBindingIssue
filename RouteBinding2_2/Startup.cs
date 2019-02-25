@@ -7,7 +7,7 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.DependencyInjection;
 
-namespace RouteBinding2_1
+namespace RouteBinding2_2
 {
     public class Startup
     {
@@ -27,7 +27,6 @@ namespace RouteBinding2_1
             }
 
             app.UseMvc();
-
         }
     }
 }

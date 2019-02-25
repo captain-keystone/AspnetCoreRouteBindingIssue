@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.421
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RouteBinding2_1", "RouteBinding2_1\RouteBinding2_1.csproj", "{0E63AC87-F404-4C53-A873-DABD682A5DFB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RouteBinding2_2", "RouteBinding2_2\RouteBinding2_2.csproj", "{673C1E37-6682-46DD-8979-35D326187667}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{0E63AC87-F404-4C53-A873-DABD682A5DFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0E63AC87-F404-4C53-A873-DABD682A5DFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0E63AC87-F404-4C53-A873-DABD682A5DFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{673C1E37-6682-46DD-8979-35D326187667}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{673C1E37-6682-46DD-8979-35D326187667}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{673C1E37-6682-46DD-8979-35D326187667}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{673C1E37-6682-46DD-8979-35D326187667}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
